@@ -1,4 +1,4 @@
-### 🔭 Olá, me chamo Nicholas Eduardo. Engenheiro de Produto digital, atuando 7 anos no mercado desenvolvendo sistemas e aplicativos com 3 anos atuando como CTO. Vasta experiência em ideação, MVP, rump up de produtos digitais.
+### 🔭 Olá, me chamo Nicholas Eduardo. Engenheiro de Produto digital, atuando 8 anos no mercado desenvolvendo sistemas e aplicativos com 3 anos atuando como CTO. Vasta experiência em ideação, MVP, rump up de produtos digitais.
 
 #### Aqui está algumas informações interessantes
 
