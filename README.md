@@ -6,4 +6,4 @@
 ##### Link of twitter: https://twitter.com/nicholasess
 ##### Link of linkedin: https://www.linkedin.com/in/nicholasess/
 
-#### Getting touch?  👋
+#### Get in touch?  👋
