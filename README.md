@@ -1,9 +1,9 @@
-### 🔭 Olá, me chamo Nicholas Eduardo. Engenheiro de Produto digital, atuando 8 anos no mercado desenvolvendo sistemas e aplicativos com 3 anos atuando como CTO. Vasta experiência em ideação, MVP, rump up de produtos digitais.
+### 🔭 Hi, My name is Nicholas Eduardo, I am a Product Engineer, actually I work at Mobixtec Software Studio, company specialized in Fintechs. In last years, I worked with hibrid applications with React Native and system development with React, NodeJs, MongoDB and TypeScript. I was CTO for 3 years ago. I like to work with MVP and rump up with digital products.
 
-#### Aqui está algumas informações interessantes
+#### Here is some interesting information
 
-##### Link do meu Blog: http://nicholasess.com.br/
-##### Link do meu Twitter: https://twitter.com/nicholasess
-##### Link do meu Linkedin: https://www.linkedin.com/in/nicholasess/
+##### Link of blog: http://nicholasess.com.br/
+##### Link of twitter: https://twitter.com/nicholasess
+##### Link of linkedin: https://www.linkedin.com/in/nicholasess/
 
-#### Vamos nos conectar?  👋
+#### Getting touch?  👋
