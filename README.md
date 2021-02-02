@@ -1,4 +1,4 @@
-### 🔭 Hi, My name is Nicholas Eduardo, I am a Product Engineer, actually I work at Mobix Software Studio, a company specialized in Fintechs. In the last years, I worked with hybrid applications with React Native and system development with React, NodeJs, MongoDB and TypeScript. I was CTO for 3 years ago. I like to work with MVP and rump up with digital products.
+### 🔭 Hi, My name is Nicholas Eduardo, I am a Product Engineer. In the last years, I worked with hybrid applications with React Native and system development with React, NodeJs, MongoDB and TypeScript. I was CTO for 3 years ago. I like to work with MVP and rump up with digital products.
 
 #### Here is some interesting information
 
