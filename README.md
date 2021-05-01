@@ -4,6 +4,8 @@
 
 On my journey, I learn and like work about business, growth, marketing, design, pixel perfect, communication between the CEO, designer, and other people to understand and transform the idea for a system. 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicholasess&count_private=true&theme=dark)](https://github.com/nicholasess)
+
 #### Here is some interesting information
 
 ##### Link of blog: http://nicholasess.com.br/
