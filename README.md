@@ -8,7 +8,6 @@ On my journey, I learn and like work about business, growth, marketing, design, 
 
 #### Here is some interesting information
 
-##### Link of blog: http://nicholasess.com.br/
 ##### Link of twitter: https://twitter.com/nicholasess
 ##### Link of linkedin: https://www.linkedin.com/in/nicholasess/
 
